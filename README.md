@@ -1,2 +1,4 @@
-# checkmk_custom_service
-Checkmk customer service check
+# Checkmk Custom Service Check Template's
+
+1x Python
+1x Bash
